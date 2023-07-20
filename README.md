@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HendersonDaniel.
 - 👀 I’m interested in Minecraft plugins and algorithmic trading.
-- 🌱 I’m currently learning how to code Minecraft plugins in Java and how to create algorithmic trading programs in C++.
+- 🌱 I’m currently learning how to code Minecraft plugins in Java and how to create scraping programs for algorithmic trading.
 - 📫 I can be reached at danielhenderson.codeprojects@gmail.com.
 
 <!---
