@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HendersonDaniel.
-- 👀 I’m interested in Minecraft plugins and algorithmic trading.
-- 🌱 I’m currently in school to get a CS degree.
+- 🌱 I’m currently attending UNC Chapel Hill.
 - 📫 I can be reached at danielhenderson.codeprojects@gmail.com.
 
 <!---
